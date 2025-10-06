@@ -26,7 +26,7 @@ export function GitHubStarButton() {
     return (
         <>
             <Link
-                href="https://github.com/Kishan-Patel-dev/Syntheseek"
+                href="https://github.com/thekishandev/Syntheseek"
                 target="_blank"
                 className="group relative flex h-9 w-full max-w-52 items-center justify-center gap-2 overflow-hidden whitespace-pre rounded-md bg-zinc-800 px-4 py-2 text-sm font-medium text-white shadow transition-all duration-300 ease-out hover:bg-black/90 hover:ring-2 hover:ring-black hover:ring-offset-2 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 md:flex"
             >

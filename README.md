@@ -8,7 +8,7 @@
 
 **Transform hours of web research into seconds with AI-powered intelligent synthesis**
 
-[Live Demo](https://www.syntheseek.ai) • [Features](#-key-features) • [Quick Start](#-quick-start) • [Documentation](#-documentation)
+[Live Demo](https://syntheseek.vercel.app/) • [Features](#-key-features) • [Quick Start](#-quick-start) • [Documentation](#-documentation)
 
 </div>
 
@@ -1055,8 +1055,8 @@ See [LICENSE](LICENSE) file for details.
 ## 📞 Contact & Links
 
 ### Project Links
-- **Live Demo:** [syntheseek.vercel.app](https://syntheseek.vercel.app)
-- **GitHub Repo:** [github.com/thekishandev/Syntheseek](https://github.com/kishanrajput23/Syntheseek)
+- **Live Demo:** [syntheseek.vercel.app](https://syntheseek.vercel.app/)
+- **GitHub Repo:** [github.com/thekishandev/Syntheseek](https://github.com/thekishandev/Syntheseek)
 - **Hackathon:** [FutureStack GenAI Hackathon 2025](https://www.wemakedevs.org/hackathons/futurestack25/)
 
 ### Developer

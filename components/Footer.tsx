@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <>
       <div className="container flex min-h-[72px] items-center justify-between border-t border-white/10 px-4 pb-3 pt-5 lg:min-h-[72px] lg:px-0 lg:py-5">
-        <a href="/" className="flex items-center gap-2.5 text-white">
+        <a href="https://syntheseek.vercel.app" className="flex items-center gap-2.5 text-white">
           <Image
             unoptimized
             src="/img/logo.png"
