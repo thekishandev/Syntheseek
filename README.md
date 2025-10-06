@@ -726,7 +726,7 @@ Health check endpoint for Docker monitoring.
 ```json
 {
   "status": "ok",
-  "timestamp": "2024-01-15T10:30:00.000Z",
+  "timestamp": "2025-10-08T10:30:00.000Z",
   "service": "Syntheseek",
   "sponsors": ["Cerebras AI", "Meta Llama", "Docker"]
 }
@@ -1084,7 +1084,7 @@ See [LICENSE](LICENSE) file for details.
 
 ---
 
-**Built with ❤️ for FutureStack GenAI Hackathon 2024**
+**Built with ❤️ for FutureStack GenAI Hackathon 2025**
 
 <p align="center">
   <strong>Powered by Cerebras 🔥 Meta Llama 🦙 Docker 🐳</strong>
