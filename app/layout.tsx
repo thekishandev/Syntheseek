@@ -9,6 +9,8 @@ let title = "Syntheseek – AI Search Engine";
 let description =
   "Search smarter and faster with our open source AI search engine";
 let url = "https://syntheseek.vercel.app/";
+let ogimage = "https://syntheseek.vercel.app/image.png";
+let sitename = "https://syntheseek.vercel.app/";
 
 export const metadata: Metadata = {
   metadataBase: new URL(url),

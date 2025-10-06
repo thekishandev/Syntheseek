@@ -2,6 +2,8 @@
 
 # Syntheseek 🔍
 
+![Syntheseek](./public/image.png)
+
 ![Cerebras](https://img.shields.io/badge/Cerebras-World's_Fastest_AI_Inference-FF6B6B?style=for-the-badge)
 [![Meta Llama](https://img.shields.io/badge/Meta-Llama_4_Scout-0467DF?style=for-the-badge&logo=meta)](https://llama.meta.com) 
 [![Docker](https://img.shields.io/badge/Docker-Production_Ready-2496ED?style=for-the-badge&logo=docker)](https://docker.com)
