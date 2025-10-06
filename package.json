@@ -1,0 +1,39 @@
+{
+  "name": "syntheseek",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ai-sdk/cerebras": "^1.0.21",
+    "@cerebras/cerebras_cloud_sdk": "^1.50.0",
+    "ai": "^5.0.8",
+    "clsx": "^2.1.1",
+    "exa-js": "^1.8.27",
+    "framer-motion": "^12.23.22",
+    "motion": "^12.23.22",
+    "next": "^14.2.33",
+    "next-plausible": "^3.12.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hot-toast": "^2.5.2",
+    "tailwind-merge": "^3.3.1"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^21.1.6",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "postcss": "^8",
+    "prettier": "^3.2.5",
+    "prettier-plugin-tailwindcss": "^0.6.0",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
