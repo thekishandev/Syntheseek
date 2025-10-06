@@ -62,7 +62,7 @@ Before deploying to Vercel, ensure you have:
 
 3. **Navigate to Project Directory**
    ```bash
-   cd /home/kishan/Downloads/Projects/Github/Syntheseek/syntheseek
+   cd /Syntheseek
    ```
 
 4. **Deploy**
@@ -275,4 +275,4 @@ If you encounter issues:
 - **Vercel Support:** https://vercel.com/support
 - **Vercel Docs:** https://vercel.com/docs
 - **Next.js Docs:** https://nextjs.org/docs
-- **Project Issues:** https://github.com/kishanrajput23/Syntheseek/issues
+- **Project Issues:** https://github.com/thekishandev/Syntheseek/issues

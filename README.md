@@ -1060,7 +1060,7 @@ See [LICENSE](LICENSE) file for details.
 - **Hackathon:** [FutureStack GenAI Hackathon 2025](https://www.wemakedevs.org/hackathons/futurestack25/)
 
 ### Developer
-**Kishan Rajput**
+**Kishan Patel**
 - GitHub: [@thekishandev](https://github.com/thekishandev)
 - Twitter/X: [@thekishandev](https://twitter.com/thekishandev)
 - LinkedIn: [thekishandev](https://linkedin.com/in/thekishandev)
