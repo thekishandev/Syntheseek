@@ -225,7 +225,7 @@ services:
 
 ## 🎯 Synergy Between Technologies
 
-### How They Work Together
+### How They Work Cerebras.ai
 
 1. **User Query Flow:**
    ```

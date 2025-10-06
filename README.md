@@ -449,8 +449,8 @@ Syntheseek/
 │   ├── README.md                  # You are here!
 │   ├── HACKATHON_SUBMISSION.md    # Technical integration deep-dive
 │   ├── DOCKER_GUIDE.md            # Docker deployment guide
-│   ├── DEMO_SCRIPT.md             # 2-minute presentation script
-│   └── MIGRATION_NOTES.md         # Together → Cerebras migration
+│   └── DEMO_SCRIPT.md             # 2-minute presentation script
+│ 
 │
 ├── ⚙️ Configuration
 │   ├── .example.env               # Environment variable template
