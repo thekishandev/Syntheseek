@@ -7,13 +7,13 @@ const nextConfig = {
       },
     ],
   },
-  // Enable standalone output for Docker deployment
-  output: 'standalone',
+  // Standalone output for Docker (Vercel will override this automatically)
+  output: process.env.VERCEL ? undefined : 'standalone',
   // Optimize for production
   swcMinify: true,
-  // Enable experimental features for better performance
+  // Remove experimental optimizeCss to fix build errors
   experimental: {
-    optimizeCss: true,
+    // optimizeCss: true, // Removed - causes build issues
   },
 };
 
