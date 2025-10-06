@@ -1,6 +1,6 @@
 <div align="center">
 
-# Syntheseek 🔍
+# 🤯 Syntheseek
 
 ![Syntheseek](./public/image.png)
 
